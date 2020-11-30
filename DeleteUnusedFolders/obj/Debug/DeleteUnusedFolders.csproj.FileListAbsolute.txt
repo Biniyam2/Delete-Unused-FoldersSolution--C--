@@ -1,0 +1,14 @@
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\bin\Debug\DeleteUnusedFolders.exe.config
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\bin\Debug\DeleteUnusedFolders.exe
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\bin\Debug\DeleteUnusedFolders.pdb
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.csprojAssemblyReference.cache
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.Form1.resources
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.Properties.Resources.resources
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.csproj.GenerateResource.cache
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.csproj.CoreCompileInputs.cache
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.exe
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.pdb
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\bin\Debug\DeleteUnusedFolders.exe.manifest
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\bin\Debug\DeleteUnusedFolders.application
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.exe.manifest
+C:\Users\Biniyam\source\repos\DeleteUnusedFoldersSolution\DeleteUnusedFolders\obj\Debug\DeleteUnusedFolders.application
